@@ -1,24 +1,17 @@
+# Ignore model artifacts
+models/
+*.h5
+*.pkl
+
+# Ignore logs and reports
+*.log
+*.md
+
 # Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
 # Virtual environments
 .venv/
 venv/
 env/
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Data and models (large files)
-data/
-models/
-*.h5
-*.pkl
-*.csv
-
-# OS files
-.DS_Store
-Thumbs.db
