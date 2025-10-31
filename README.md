@@ -177,14 +177,7 @@ The Streamlit dashboard provides an intuitive interface for health risk assessme
 
 This project demonstrates advanced implementation of ensemble learning, deep neural networks, explainable AI, and real-time web applications. The combination of classical machine learning with modern deep learning approaches, enhanced by comprehensive model explainability, represents a state-of-the-art approach to healthcare risk prediction.
 
-## Developer
 
-**Vaibhav Sharma**  
-AI/ML Engineer & Data Scientist
-
-- Email: itsvaibhavsharma007@gmail.com
-- GitHub: [@itsvaibhavsharma](https://github.com/itsvaibhavsharma)
-- LinkedIn: [@itsvaibhavsharma](https://linkedin.com/in/itsvaibhavsharma)
 
 ## License
 
@@ -193,3 +186,4 @@ MIT License - see LICENSE file for details.
 ## Medical Disclaimer
 
 This application is for educational and research purposes only. All predictions should be verified by qualified healthcare professionals and do not replace professional medical advice.
+
